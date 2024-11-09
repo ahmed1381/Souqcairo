@@ -1,0 +1,155 @@
+@media (min-width: 0) and (max-width: 767px) {
+
+    .container {
+        padding-right: 1.5rem !important;
+        padding-left: 1.5rem !important;
+    }
+
+    nav {
+        display: none !important;
+    }
+
+    .btn-search {
+        display: none;
+    }
+
+    .search-input {
+        width: 100% !important;
+    }
+
+    .icon-nav {
+        width: 20px !important;
+        height: 20px !important;
+        color: black !important;
+        display: block !important;
+    }
+
+    .list-search {
+        display: none !important;
+    }
+
+    .section-DropDown {
+        display: none !important;
+    }
+
+    .search-place {
+        border: none !important;
+    }
+
+    .btn-alert {
+        width: 21% !important;
+    }
+
+    .section-information {
+        display: flex;
+        overflow: hidden;
+    }
+
+    .section-information .fs-5 {
+        font-size: 1rem!important;
+    }
+
+    .section-information .part-2-information {
+        border: none!important;
+    }
+
+    .part-1-information {
+        width: 50%!important;
+    }
+
+    .part-2-information {
+        width: 50%!important;
+    }
+
+    .section-Site-Information {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section-information .fs-3 {
+        font-size: 1rem!important;
+    }
+
+    .section-Site-Information .border-end,
+    .section-Site-Information .ps-5{
+        border: none!important;
+        padding: 0!important;
+    }
+
+    .part-1-site,
+    .part-2-site {
+        width: 100%!important;
+    }
+
+        /*.End-page {*/
+        /*    display: flex!important;*/
+        /*    flex-direction: column!important;*/
+        /*}*/
+
+    .part-1 {
+        display: none;
+    }
+
+    .footer {
+        display: flex!important;
+        flex-direction: column!important;
+        width: 100%!important;
+    }
+
+    .sup-ul {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row-reverse;
+        border-bottom: 1px solid rgba(236, 237, 242, 0.3);
+        margin-bottom: 1rem;
+    }
+
+    .part-4 {
+        border-top: 1px solid rgba(236, 237, 242, 0.3);
+        padding-top: 1rem;
+        text-align: start!important;
+    }
+
+    .part-2,
+    .part-3,
+    .part-4 {
+        width: 100%!important;
+        text-align: center;
+    }
+
+    .End-page li:first-child {
+        display: none;
+    }
+
+    .sup-title {
+        font-size: 1rem!important;
+    }
+
+    .sup-link {
+        font-size: 1rem!important;
+    }
+
+    .sale {
+        font-size: 1rem;
+        margin: 0;
+    }
+
+    .content-Washing {
+        font-size: 0.65rem;
+        margin: 0;
+    }
+
+    .btn-sale {
+        font-size: 0.7rem;
+        width: 5rem;
+        height: 1.5rem;
+        margin: 0;
+    }
+
+    .Washing {
+        width: 10rem;
+        height: 100%;
+    }
+
+}

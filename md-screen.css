@@ -1,0 +1,11 @@
+@media (min-width: 767px) and (max-width: 992px) {
+
+    .sale {
+        font-size: 3rem!important;
+    }
+
+    .content-Washing {
+        font-size: 2rem!important;
+    }
+
+}
